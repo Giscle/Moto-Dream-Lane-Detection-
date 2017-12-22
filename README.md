@@ -1,6 +1,9 @@
+
 # Moto-Dream-Lane-Detection
-Team leader : Olaf Placha
-Other team members: Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla.
+<p align='center'><img width="500" height="300" align="center" src="https://github.com/olafplacha/Lane_Detection_Project/blob/master/lanes.gif"></p>
+
+<p><h4>Team leader:</h4> Olaf Placha</p>
+<p><h4>Team members:</h4> Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla.</p>
 
 This project is created by team MotoDream for Giscle Intern and for detecting lane on indidan Roads.
 
@@ -13,6 +16,7 @@ This project uses Canny Edge Detection, Hough Transforms, and Color thresholding
 - python3 
 - sklearn.cluster 
 - collections
+<br>
 Insteid of installiing all these libreries individualy you can downdload and intall Anaconda with python3 inviroment it'd be helpful. 
 https://conda.io/docs/user-guide/install/index.html
 
