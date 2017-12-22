@@ -1,8 +1,8 @@
 
 # Moto-Dream-Lane-Detection
-<p align='center'><img width="500" height="300" align="center" src="https://github.com/Giscle/Moto-Dream-Lane-Detection-/tree/master/img/gifv.gif"></p>
+<p align='center'><img width="500" height="300" align="center" src="https://github.com/Giscle/Moto-Dream-Lane-Detection-/blob/master/img/gifv.gif"></p>
 
-<p><h4>Team leader:</h4> Olaf Placha  <h4>Team members:</h4> Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla.</p>
+<p><b>Team leader:</b> Olaf Placha,  <b>Team members:</b> Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla.</p>
 
 This project is created by team MotoDream for Giscle Intern and for detecting lane on indidan Roads.
 
